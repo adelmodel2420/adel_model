@@ -14,5 +14,4 @@ if __name__ == '__main__':
     a = int(input())
     b = int(input())
     print(a + b)
-    print("This is sum of two digits")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
